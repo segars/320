@@ -129,3 +129,20 @@ max-width: 200px;
 
 
 }
+
+#SUB5D{
+    border-radius: 50px;
+    border: solid ;
+    margin: 2px;
+    max-width: 200px;
+    text-align:  center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+    }
+
+    #TEXT{
+
+        margin-left: 0.5cm;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
